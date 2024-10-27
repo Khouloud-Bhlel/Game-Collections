@@ -1,1 +1,1 @@
-BreadcrumbsGame-Collection
+Game-Collection
